@@ -5,7 +5,7 @@ Basic Exercises on the `String.find()` Python method.
 
 #What is `String.find()` ?
 
-`String.Find()` is a function to find something in a string of text. Each character - including space is turned into a number. 
+`String.Find()` is a function to find something [In a certain position] in a string of text. Each character - including space is turned into a number. 
 
 Example:
 
